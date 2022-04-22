@@ -47,7 +47,7 @@ Show role details
 $ az role show -n "Contoso On-call"
 ```
 
-Modify / sdd rights to the role
+Modify / add rights to the role
 ```
 az role set --config <file or json string>
 ```
